@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    '320cde22f66dd4f5d3fd621d3e88b98f' => $vendorDir . '/symfony/polyfill-ctype/bootstrap.php',
     '9732b2ce9fb4a8ddeaf467f5b2e1ca46' => $baseDir . '/src/StringUtils.php',
-    'c8f511cf932f8a98844366eafa1d91ee' => $baseDir . '/tests/StringUtilsTest.php',
 );
