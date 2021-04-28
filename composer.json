@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/tests",
+    "description": "tests",
+    "authors": [
+        {
+            "name": "Konpa",
+            "email": "pavelkonoplyanikov@yandex.by"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    }
+}
