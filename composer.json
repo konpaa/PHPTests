@@ -12,11 +12,11 @@
     },
     "autoload": {
         "files": [
-            "src/StringUtils.php",
-            "src/Utils.php"
+            "src/StringUtils.php"
         ],
         "psr-4": {
-            "App\\" : "tests/"
+            "Phpunit\\Utils\\" : "src",
+            "Phpunit\\Utils\\Tests\\" : "tests"
         }
     },
     "require-dev": {
