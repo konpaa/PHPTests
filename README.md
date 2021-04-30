@@ -1,0 +1,1 @@
+![example workflow](https://github.com/konpaa/PHPTests/actions/workflows/php.yml/badge.svg)
